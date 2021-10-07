@@ -1,2 +1,14 @@
-# Salary-Predictor-for-Bangladesh
-In this project, i created a machine learning based expected salary predictor against the years of experience and deployed the app on web using Flask.
+# flask-salary-predictor
+This is project predicts the salary of the employee based on the experience.
+
+# Model
+model.py trains and saves the model to the disk.
+model.pkb the pickle model 
+
+# App
+app.py contains all the requiered for flask and to manage APIs.
+
+
+
+Procedure--
+Open command Prompt and go to given directory and then run python app.py
